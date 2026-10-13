@@ -1,0 +1,10 @@
+version: 1
+project:
+  title: Mi Proyecto de Machine Learning
+  authors:
+    - name: Leonella Torreglosa
+  toc:
+    - file: intro.md
+    - file: Entregable1.ipynb
+site:
+  template: book-theme
